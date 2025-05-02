@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi, I’m Usman — a passionate Software Engineering student and self-driven developer who loves building practical and creative solutions.<br>I specialize in:<br><br>* 💻 Java | MERN Stack | Next.js | .NET (in progress)<br>* 🎨 UI/UX Design with Figma<br>* 🚀 Full Stack + DevOps enthusiast<br>* 🛠️ Building CRMs, CMS, and custom systems<br>* 🌐 Freelancing on Fiverr | Leading design & dev teams<br>* 💡 Exploring AI tools, automation, and modern web tech<br>* 🤝 Open to collaboration, contributions, and learning together!<br><br>📍 Based in Abbottabad, Pakistan
+👋 About Me<br><br>Hi, I’m Usman — a passionate Software Engineering student and self-driven developer who loves building practical and creative solutions.<br>I specialize in:<br><br>* 💻 Java | MERN Stack | Next.js | .NET (in progress)<br>* 🎨 UI/UX Design with Figma<br>* 🚀 Full Stack + DevOps enthusiast<br>* 🛠️ Building CRMs, CMS, and custom systems<br>* 🌐 Freelancing on Fiverr | Leading design & dev teams<br>* <br>📍 Based in Abbottabad, Pakistan
 
 
 ## 🌐 Socials:
